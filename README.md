@@ -8,7 +8,7 @@ Mi pasión es transformar datos complejos en decisiones de negocio rentables. Co
 
 Programación: Python (Pandas, NumPy, Scikit-learn) para análisis, modelado y automatización.
 
-Bases de Datos: SQL avanzado para extracción, manipulación y optimización de datos.
+Bases de Datos: SQL avanzado para extracción, utilización y optimización de datos.
 
 Machine Learning: Modelos supervisados y no supervisados, A/B testing, y feature engineering para la optimización de procesos.
 
