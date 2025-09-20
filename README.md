@@ -1,5 +1,7 @@
-Analista de datos y Analista Estratégico con más de 15 años de experiencia en el sector financiero.
+Analista de datos Estratégico con más de 15 años de experiencia en el sector financiero.
+
 🔍 Mi Rol
+
 Mi pasión es transformar datos complejos en decisiones de negocio rentables. Con más de una década de experiencia en banca, riesgo crediticio, fraude, scoring y análisis financiero, mi especialidad no es solo programar, sino entender los objetivos estratégicos y los retos del negocio para aportar valor real.
 
 🛠️ Habilidades Técnicas
