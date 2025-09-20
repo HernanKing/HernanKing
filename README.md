@@ -24,3 +24,6 @@ Un portafolio de proyectos que demuestran flujos de trabajo de principio a fin, 
 
 Siempre abierto a conectar con la comunidad y a aprender de nuevos desafíos en el fascinante mundo de los datos.
 
+
+
+[CONTACT](https://wa.me/573183849035)
