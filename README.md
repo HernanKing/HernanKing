@@ -26,4 +26,6 @@ Siempre abierto a conectar con la comunidad y a aprender de nuevos desafíos en 
 
 
 
-[CONTACT](https://wa.me/573183849035)
+[CONTACTO](https://wa.me/573183849035)
+
+[PORTAFOLIO](https://hernanking.github.io/portafolio_personal/)
